@@ -17,7 +17,7 @@ The core of the system is built using TensorFlow and the Keras API, leveraging t
 
 ## Results
 
-The model achieved a best validation accuracy of 0.94 and test accuracy score of 0.93, indicating a high level of proficiency in categorizing tweets into the respective emotions. This result underscores the potential of LSTMs in handling complex text classification tasks like emotion recognition.
+The model achieved a best validation accuracy of 0.94 and test accuracy score of 0.93, indicating a high level of proficiency in categorizing tweets into the respective emotions. This result underscores the potential of LSTMs in handling complex text classification tasks like emotion recognition and the importance of hyperparameter tuning.
 
 ## Future Outlook
 
